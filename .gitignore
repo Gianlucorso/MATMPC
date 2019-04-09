@@ -1,0 +1,6 @@
+data/*
+*.mexa64
+slprj/*
+model_src/*
+mex_core/casadi_src.c
+mex_core/casadi_src.h
