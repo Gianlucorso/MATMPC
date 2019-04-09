@@ -1,4 +1,6 @@
 %% set path for your computer
+mex_core_dir = '/home/gianluca/Desktop/ms2019a-gianluca_corsini/Software/MATMPC/mex_core';
+cd(mex_core_dir);
 
 %% detect OS type
 
