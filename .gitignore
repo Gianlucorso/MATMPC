@@ -1,6 +1,30 @@
+#+--------------------------------------------------------------------+
+#| Gitignore for MATMPC repository                                    |
+#+--------------------------------------------------------------------+
+# Lines that start with '#' are comments.
+
+####  Matlab  ####
+
 data/*
 *.mexa64
 slprj/*
 model_src/*
 mex_core/casadi_src.c
 mex_core/casadi_src.h
+
+
+####  Texmaker  #### 
+
+*.pdf
+!**/figures/*.pdf
+*.aux
+*.log
+*.tex.bak
+*.bak
+*.gz
+*.out
+*.dvi
+*.bst
+*.blg
+*.tdo
+*.toc
